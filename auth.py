@@ -1,1 +1,1 @@
-# Auth in feature/auth
+# Conflit de auth.py fixé
